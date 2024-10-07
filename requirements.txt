@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+sentence_transformers
+bs4
+pandas
+giskard
+giskard[llm]
+bokeh
